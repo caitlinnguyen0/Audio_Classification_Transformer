@@ -12,4 +12,3 @@ Audio augmentations were applied to the samples (which can be downloaded here [G
 
 Data breakdown is as follows: 2992 gunshot samples, 66864 non-gunshot samples
 
-augment, class, class_id, file, fold 
