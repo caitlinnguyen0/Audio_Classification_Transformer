@@ -3,7 +3,7 @@
 ## Setup 
 Transformer model was trained on GoogleColab running python 3.8.10.
 
-Samples should be downloaded and added to the Google Drive account associated with the account running Colab. In a new notebook create a folder called "Transformer_training_audio" within the content directory.
+Training and testing data (explained below) should be downloaded and added to the Google Drive account associated with the account running Colab. In a new notebook create a folder called "Transformer_training_audio" within the content directory.
 
 ## Downloading Training and Testing Data
 8,732 audio samples can be downloaded from [UrbanSound8K](https://urbansounddataset.weebly.com/download-urbansound8k.html).
